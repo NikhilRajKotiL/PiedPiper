@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308044952617",
+    "project_id": "pied-piper-7e69a",
+    "storage_bucket": "pied-piper-7e69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308044952617:android:0d5b639220a068f3b7d838",
+        "android_client_info": {
+          "package_name": "com.example.piedpiper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308044952617-4jddlf8rbqap1mmq4p0jdjlu0i9137r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.piedpiper",
+            "certificate_hash": "b590cae7b6b1dbd58203966cbbbf579a5c0f9169"
+          }
+        },
+        {
+          "client_id": "308044952617-vjdu5v9tpiko7kla66hd53vsihecfi4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7_JfupSY7T7zeyv1mRabeayZydKzu2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308044952617-vjdu5v9tpiko7kla66hd53vsihecfi4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
